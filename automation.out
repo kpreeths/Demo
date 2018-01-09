@@ -1,0 +1,86 @@
+2017-12-17 18:26:57 INFO  TestBase:30 - ################Creating Object of firefox
+2017-12-17 18:27:10 INFO  TestBase:52 - ##############Navigating to http://live.guru99.com/index.php/
+2017-12-17 18:27:15 INFO  MyTC1:34 - *********Firefox launched in setUp()**********
+2017-12-17 18:27:15 INFO  MyTC1:39 - ############## Starting test #############
+2017-12-17 18:27:15 INFO  MyTC1:45 - The Home page title matches...passed
+2017-12-17 18:27:15 INFO  HomePage:50 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (bd4e60d4-d967-4742-a486-48348f7fa405)] -> css selector: .level0]
+2017-12-17 18:27:16 INFO  MyTC1:50 - The Mobile page title matches...passed
+2017-12-17 18:27:17 INFO  HomePage:64 - in getProducts().....
+2017-12-17 18:27:18 INFO  HomePage:67 - linked list declared...
+2017-12-17 18:27:18 INFO  MyTC1:57 - The Mobile page is Sorted by Names
+2017-12-17 18:27:18 INFO  MyTC1:65 - ScreenShot taken
+2017-12-17 23:40:34 INFO  TestBase:30 - ################Creating Object of firefox
+2017-12-17 23:40:52 INFO  TestBase:52 - ##############Navigating to http://live.guru99.com/index.php/
+2017-12-17 23:40:57 INFO  MyTC1:34 - *********Firefox launched in setUp()**********
+2017-12-17 23:40:57 INFO  MyTC1:39 - ############## Starting test #############
+2017-12-17 23:40:57 INFO  MyTC1:45 - The Home page title matches...passed
+2017-12-17 23:40:57 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (fbc412a3-3e95-4353-aa73-4d0e33f6a14f)] -> css selector: .level0]
+2017-12-17 23:40:59 INFO  MyTC1:50 - The Mobile page title matches...passed
+2017-12-17 23:40:59 INFO  HomePage:65 - in getProducts().....
+2017-12-17 23:41:00 INFO  HomePage:68 - linked list declared...
+2017-12-17 23:41:00 INFO  MyTC1:57 - The Mobile page is Sorted by Names
+2017-12-17 23:41:01 INFO  MyTC1:65 - ScreenShot taken
+2017-12-18 17:50:03 INFO  TestBase:30 - ################Creating Object of firefox
+2017-12-18 17:50:20 INFO  TestBase:52 - ##############Navigating to http://live.guru99.com/index.php/
+2017-12-18 17:50:26 INFO  MyTC1:33 - *********Firefox launched in setUp()**********
+2017-12-18 17:50:26 INFO  MyTC1:38 - ############## Starting test #############
+2017-12-18 17:50:26 INFO  MyTC1:44 - The Home page title matches...passed
+2017-12-18 17:50:26 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (e5325182-ae06-4f70-b4a9-e6bed580a8b5)] -> css selector: .level0]
+2017-12-18 17:50:28 INFO  MyTC1:49 - The Mobile page title matches...passed
+2017-12-18 17:50:28 INFO  HomePage:65 - in getProducts().....
+2017-12-18 17:50:28 INFO  HomePage:68 - linked list declared...
+2017-12-18 17:50:29 INFO  MyTC1:56 - The Mobile page is Sorted by Names
+2017-12-18 17:50:29 INFO  MyTC1:64 - ScreenShot taken
+2017-12-19 17:48:07 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 17:48:28 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 17:48:28 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 17:48:33 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (42d2909f-89eb-4e01-bd8b-3e94615bf4ab)] -> css selector: .level0]
+2017-12-19 17:48:35 INFO  MyTC1:29 - =========== Product page invoked =========
+2017-12-19 17:50:37 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 17:50:52 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 17:50:52 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 17:50:58 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (72e3a81c-c8f4-4cba-a9a2-c725cd1da2fa)] -> css selector: .level0]
+2017-12-19 17:50:59 INFO  MyTC1:30 - =========== Product page invoked =========
+2017-12-19 17:50:59 INFO  ProductListPage:26 - Xperia price ....$100.00
+2017-12-19 20:40:41 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 20:40:56 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 20:40:56 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 20:41:01 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (3126af85-2622-4256-a735-6b37800919a7)] -> css selector: .level0]
+2017-12-19 20:41:03 INFO  MyTC1:31 - =========== Product List page invoked =========
+2017-12-19 20:41:03 INFO  ProductListPage:35 - Xperia price ....$100.00
+2017-12-19 20:44:15 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 20:44:30 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 20:44:30 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 20:44:35 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (d0697ff6-b271-4a9c-8746-2e98d4c933f9)] -> css selector: .level0]
+2017-12-19 20:44:37 INFO  MyTC1:31 - =========== Product List page invoked =========
+2017-12-19 20:44:37 INFO  ProductListPage:35 - Xperia price WebElement....[[FirefoxDriver: firefox on XP (d0697ff6-b271-4a9c-8746-2e98d4c933f9)] -> css selector: #product-price-1 > span.price]
+2017-12-19 20:44:38 INFO  ProductListPage:44 - detailXperia price WebElement....[[FirefoxDriver: firefox on XP (d0697ff6-b271-4a9c-8746-2e98d4c933f9)] -> css selector: .price]
+2017-12-19 20:48:18 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 20:48:33 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 20:48:33 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 20:48:39 INFO  MyTC1:37 - ========== Starting test ========
+2017-12-19 20:48:39 INFO  MyTC1:43 - The Home page title matches...passed
+2017-12-19 20:48:39 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (f50ecdd5-fbe9-426b-9a64-6ef75654aa45)] -> css selector: .level0]
+2017-12-19 20:48:41 INFO  MyTC1:48 - The Mobile page title matches...passed
+2017-12-19 20:48:41 INFO  HomePage:65 - in getProducts().....
+2017-12-19 20:48:43 INFO  HomePage:68 - linked list declared...
+2017-12-19 20:48:43 INFO  MyTC1:55 - The Mobile page is Sorted by Names
+2017-12-19 20:48:43 INFO  MyTC1:63 - ScreenShot taken
+2017-12-19 20:50:10 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 20:50:25 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 20:50:25 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 20:50:30 INFO  MyTC1:37 - ========== Starting test ========
+2017-12-19 20:50:31 INFO  MyTC1:43 - The Home page title matches...passed
+2017-12-19 20:50:31 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (23e8b3ee-1ae1-4b1e-969e-ab7fdd79d9fc)] -> css selector: .level0]
+2017-12-19 20:50:32 INFO  MyTC1:48 - The Mobile page title matches...passed
+2017-12-19 20:50:32 INFO  HomePage:65 - in getProducts().....
+2017-12-19 20:50:33 INFO  HomePage:68 - linked list declared...
+2017-12-19 20:50:33 INFO  MyTC1:55 - The Mobile page is Sorted by Names
+2017-12-19 20:50:34 INFO  MyTC1:63 - ScreenShot taken
+2017-12-19 20:50:34 INFO  TestBase:31 - =========== Creating Object of ========= firefox
+2017-12-19 20:50:46 INFO  TestBase:23 - *********Firefox launched in init()**********
+2017-12-19 20:50:46 INFO  TestBase:53 - ========== Navigating to ======== http://live.guru99.com/index.php/
+2017-12-19 20:50:51 INFO  HomePage:51 - Clicking Mobile link...[[FirefoxDriver: firefox on XP (e502e3d8-8c9a-488e-b0ab-78dd1d35575d)] -> css selector: .level0]
+2017-12-19 20:50:53 INFO  MyTC1:31 - =========== Product List page invoked =========
+2017-12-19 20:50:53 INFO  ProductListPage:35 - Xperia price WebElement....[[FirefoxDriver: firefox on XP (e502e3d8-8c9a-488e-b0ab-78dd1d35575d)] -> css selector: #product-price-1 > span.price]
+2017-12-19 20:50:54 INFO  ProductListPage:44 - detailXperia price WebElement....[[FirefoxDriver: firefox on XP (e502e3d8-8c9a-488e-b0ab-78dd1d35575d)] -> css selector: .price]
